@@ -62,7 +62,8 @@ Customer Churn Prediction
 * Geographic Analysis
 * Service Usage Analysis
 * Churn Category Distribution
-![Churn Summary Dashboard](images/churn-summary-dashboard.png)
+  
+![Churn Summary Dashboard](images/churn_summary_dashboard.png)
 
 
 
@@ -74,7 +75,7 @@ Displays customers predicted to churn using the Random Forest model, along with 
 
 
 
-![Churn Prediction Dashboard](images/churn-prediction-dashboard.png)
+![Churn Prediction Dashboard](images/churn_prediction_dashboard.png)
 
 ---
 
